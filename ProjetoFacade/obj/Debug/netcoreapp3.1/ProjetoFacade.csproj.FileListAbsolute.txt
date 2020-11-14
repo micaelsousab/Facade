@@ -1,0 +1,13 @@
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\bin\Debug\netcoreapp3.1\ProjetoFacade.exe
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\bin\Debug\netcoreapp3.1\ProjetoFacade.deps.json
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\bin\Debug\netcoreapp3.1\ProjetoFacade.runtimeconfig.json
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\bin\Debug\netcoreapp3.1\ProjetoFacade.runtimeconfig.dev.json
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\bin\Debug\netcoreapp3.1\ProjetoFacade.dll
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\bin\Debug\netcoreapp3.1\ProjetoFacade.pdb
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.csprojAssemblyReference.cache
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.AssemblyInfoInputs.cache
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.AssemblyInfo.cs
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.csproj.CoreCompileInputs.cache
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.dll
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.pdb
+C:\Estudos\Facade Pattern\ProjetoFacade\ProjetoFacade\obj\Debug\netcoreapp3.1\ProjetoFacade.genruntimeconfig.cache
